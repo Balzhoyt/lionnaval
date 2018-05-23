@@ -5,3 +5,21 @@
     background-size: cover;
     /*width: 100%;*/
 }
+.logo-png{
+   
+   padding-top: 10%;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+.logo-png img{
+    width: 35%;
+}
+.letras-slider{
+    padding: 20px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

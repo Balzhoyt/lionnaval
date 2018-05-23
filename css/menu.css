@@ -8,6 +8,7 @@ header{
     background:#0f4052;
     height: 70px;
     position: fixed;
+    z-index: 100;
 }
 .ancho{
     width: 80%;
